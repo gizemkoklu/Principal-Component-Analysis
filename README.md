@@ -1,4 +1,4 @@
-PCA - Principal Component Analysis
+
 PCA (Principal Component Analysis), çok değişkenli bir veri setindeki değişkenler arasındaki ilişkileri anlamak ve veri boyutunu azaltmak için kullanılan bir istatistiksel bir tekniktir. 
 Veri boyutu azaltma, veri setindeki değişken sayısını azaltarak veri setini daha kolay anlaşılır ve işlenebilir hale getirir.
 
